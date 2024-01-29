@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Directory for compiled output
+dist/
+
+# Directory for build output
+build/
+
+# macOS system files
+.DS_Store
+
+# Temporary files
+tmp/
+temp/
